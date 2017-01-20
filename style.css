@@ -1,0 +1,74 @@
+
+/* Styles go here */
+head {
+  color:blue;
+}
+
+body {
+  color: blue;
+  font-family:arial;
+  background-color:#A901DB;
+}
+
+h1{
+  font-size:24;
+  
+}
+
+.header {
+  text-align:center;
+  color:white;
+}
+
+a:link {
+  color:white;
+  text-decoration:none;
+}
+
+a:visited {
+  text-decoration:none;
+}
+
+a:hover {
+  color:white;
+  text-decoration:none;
+}
+
+h2{
+  font-size:19;
+  color:#6A0888;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+p {
+  color:white;  
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:verdana;
+    font-size:14px ;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4B088A;
+}
